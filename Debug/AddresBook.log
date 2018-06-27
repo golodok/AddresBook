@@ -1,0 +1,9 @@
+﻿  Moc'ing AddresBook.h...
+  Moc'ing MyModel.h...
+  moc_AddresBook.cpp
+  moc_MyModel.cpp
+  AddresBook.cpp
+  MyModel.cpp
+  main.cpp
+c:\work\test\addresbook\addresbook\mymodel.cpp(92): warning C4806: !=: небезопасная операция: значение типа "bool", приведенное к типу "int", не может равняться данной константе
+  AddresBook.vcxproj -> C:\work\Test\AddresBook\Win32\Debug\AddresBook.exe
